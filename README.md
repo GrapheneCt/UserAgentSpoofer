@@ -1,5 +1,6 @@
 # UserAgentSpoofer
 User agent spoofer plugin for PS Vita WebKit
+
 Intended to work only with applications that use WebKit through webcore or mini webcore BG apps.
 
 Install by adding following to config.txt
